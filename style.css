@@ -1,3 +1,8 @@
 h1 {
     color: blue;
 }
+
+body {
+    font-family: poppins, calibri, sans-serif;
+    background-color: blue;
+}
